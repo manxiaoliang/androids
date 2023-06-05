@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Fragments</string>
+    <string name="move">Move</string>
+    <string name="cube">Cube</string>
+    <string name="flip">Flip</string>
+    <string name="pushpull">Push/Pull</string>
+    <string name="sides">Sides</string>
+    <string name="cubemove">Cube/Move</string>
+    <string name="movecube">Move/Cube</string>
+    <string name="pushmove">Push/Move</string>
+    <string name="movepull">Move/Pull</string>
+</resources>

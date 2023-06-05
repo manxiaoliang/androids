@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/style_move"
+        android:title="@string/move" />
+    <item
+        android:id="@+id/style_cube"
+        android:title="@string/cube" />
+    <item
+        android:id="@+id/style_flip"
+        android:title="@string/flip" />
+    <item
+        android:id="@+id/style_sides"
+        android:title="@string/sides" />
+    <item
+        android:id="@+id/style_movecube"
+        android:title="@string/movecube" />
+    <item
+        android:id="@+id/style_movepull"
+        android:title="@string/movepull" />
+    <item
+        android:id="@+id/style_cubemove"
+        android:title="@string/cubemove" />
+    <item
+        android:id="@+id/style_pushmove"
+        android:title="@string/pushmove" />
+    <item
+        android:id="@+id/style_pushpull"
+        android:title="@string/pushpull" />
+</menu>
